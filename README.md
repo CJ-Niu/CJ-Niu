@@ -5,8 +5,6 @@
 -                 Photography
 - 🌱 I’m currently learning: 
 -                 Java
-- 💞️ I’m looking to collaborate on: 
--                 Java Project
 - 📫 How to reach me: 
 -                 wonder.xichen@gmail.com
 
