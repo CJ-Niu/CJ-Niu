@@ -3,8 +3,6 @@
 -                 Coding
 -                 Workout
 -                 Photography
-- 🌱 I’m currently learning: 
--                 Java
 - 📫 How to reach me: 
 -                 wonder.xichen@gmail.com
 
